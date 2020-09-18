@@ -4,4 +4,4 @@
 <br><br>
 O objetivo desta página é ser um site simples onde eu possa linkar meus projetos.
 
-<strong>Site:</strong> <a>meus-projetos.com</a>
+<strong>Site:</strong> <a href="http://meus-projetos.com/">meus-projetos.com</a>
